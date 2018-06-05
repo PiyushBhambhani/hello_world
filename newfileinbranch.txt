@@ -1,0 +1,2 @@
+ths is a new file created in branch1 before merging
+i am creatig another branch in branch1 for this commit

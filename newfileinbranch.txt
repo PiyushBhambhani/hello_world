@@ -1,2 +1,3 @@
 ths is a new file created in branch1 before merging
 i am creatig another branch in branch1 for this commit
+ now, this is my final version,that  ive made changes and i want to release
